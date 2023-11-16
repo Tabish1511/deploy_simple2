@@ -1,0 +1,1 @@
+web: gunicorn deploy_simple2.wsgi
